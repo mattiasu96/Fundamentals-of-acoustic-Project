@@ -1,4 +1,4 @@
-# Fundamental of acoustic Project
+# Fundamentals of acoustics Project
 
 Project developed for the course of **_Fundamentals of acoustics_** in my 1° year of _Master of Science_ in **_Music & Acoustic Engineering_** @ **Politecnico di Milano**.
 I studied the behavior and the generation of harmonics on an electric guitar. 
